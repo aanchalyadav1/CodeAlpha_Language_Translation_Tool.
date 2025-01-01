@@ -64,14 +64,6 @@ print(f"Translated text: {translated_text}")
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out to me at [souhail.mah@gmail.com].
-
 
 
 
